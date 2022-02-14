@@ -1,4 +1,4 @@
-- 👋 Hi, I’m cans..
+- 👋 Hi, I’m can..
 - 👀 I’m interested in mobile application development..
 - 🌱 I’m currently learning C# and Python ..
 - 💞️ My skills are only darts at the moment..
