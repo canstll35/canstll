@@ -1,7 +1,5 @@
 - 👋 Hi, I’m can..
-- 👀 I’m interested in mobile application development..
-- 🌱 I’m currently learning C# , Python and Flutter..
-- 💞️ My skills are only Dart at the moment..
+- 👀 I’m interested in cyber security..
 
 
 <!---
